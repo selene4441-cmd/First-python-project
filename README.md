@@ -21,3 +21,7 @@ pip install -r requirements.txt
 Then run:
 
 python main.py
+
+## Branch Practice
+
+This is my first Git branch experiment.
